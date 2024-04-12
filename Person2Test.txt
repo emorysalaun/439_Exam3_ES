@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+This is a test file to ensure Git is setup properly. For challenge 2, I am making a change to the first line of the file. For challenge 2 I am ALSO changing this line, causing a merge error.
+>>>>>>> 68a07f292d1e8bb9561b957a068155d4cc226eff
+
+
+
+
+A change was made to the last line.
+=======
+This is for challenge 1, I am changing text on the first line of a file.
+>>>>>>> b153101f56a2fd657223759d028c985a1932f722
